@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bff:home|Door43 (bff)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bff|d43-bff repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bff/archive/master.zip|d43-bff.zip]]
+
+**Recent Changes**
+{{changes>ns = bff}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bff|Ethnologue data]]
+
